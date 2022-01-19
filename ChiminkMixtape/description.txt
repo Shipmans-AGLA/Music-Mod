@@ -1,0 +1,2 @@
+Replaces most of the songs in the game with songs of my choice. Songs are from Hollow knight, the binding of isaac, and a little bit of ultrakill. you can extract this mod and replace music files with whatever music you want.
+Works with calamity and will not replace its biome or boss music.

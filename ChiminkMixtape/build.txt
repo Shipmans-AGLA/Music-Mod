@@ -1,0 +1,5 @@
+displayName = Chimink's Mixtape
+author = CHIMINK
+version = 0.1
+hideCode = false
+includeSource = true

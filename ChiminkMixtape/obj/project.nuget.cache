@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tOHWTf3NRV9eMU63hwZwpMdHnhj3VThRmEk85IHJj/+65Iu8HWzkxCDO+IcRCEVx/tvGW2rZb9FGu4HCCff/sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\boybl\\OneDrive\\Documents\\My Games\\Terraria\\ModLoader\\Mod Sources\\ChiminkMixtape\\ChiminkMixtape.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\boybl\\.nuget\\packages\\tmodloader.codeassist\\0.1.3\\tmodloader.codeassist.0.1.3.nupkg.sha512"
+  ],
+  "logs": []
+}
